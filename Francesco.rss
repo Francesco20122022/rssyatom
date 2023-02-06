@@ -5,7 +5,7 @@
         <title>Blog de fotografia</title>
         <link> https://francesco20122022.github.io/prueba/ </link>
         <description> Fotografía digital y analógica </description>
-        <author>usuario@ejemplo.org (Francesco Latorrata)</author>
+        <author>a22lalafr@iesgrancapitan.org (Francesco Latorrata)</author>
         <category>News sobre fotografía</category>
         <skypDays>
             <day>saturday</day>
@@ -24,7 +24,7 @@
             <title> Fotografía analógica </title>
             <link> https://francesco20122022.github.io/prueba/ </link>
             <description> Revelado de fotos en blanco y negro </description>
-            <author> usuario1@ejemplo.org (Francesco Latorrata) </author>
+            <author> a22lalafr@iesgrancapitan.org (Francesco Latorrata) </author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg" length="123" type="image/jpeg"/>
             <pubDate> Thu, 27 Apr 2023 19:27:06 </pubDate>
         </item>
@@ -33,7 +33,7 @@
             <title> Fotografía en blanco y negro </title>
             <link> htpp:// </link>
             <description> Revelado de fotos en blanco y negro </description>
-            <author> usuario2@ejemplo.org (Francesco Latorrata) </author>
+            <author> a22lalafr@iesgrancapitan.org(Francesco Latorrata) </author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg" length="123" type="image/jpeg"/>
             <pubDate> Thu, 3 Dec 2023 19:27:06:00 </pubDate>
         </item>
@@ -42,7 +42,7 @@
             <title> Fotografía en color </title>
             <link> htpp:// </link>
             <description> Revelado de fotos en blanco y negro </description>
-            <author> usuario3@ejemplo.org (Francesco Latorrata)</author>
+            <author> a22lalafr@iesgrancapitan.org (Francesco Latorrata)</author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg" length="123" type="image/jpeg"/>
             <pubDate> Thu, 27 Dec 2023 19:27:06:00 </pubDate>
         </item>
@@ -51,7 +51,7 @@
             <title> Fotografía digital </title>
             <link> htpp:// </link>
             <description> Revelado de fotos en blanco y negro </description>
-            <author> usuario4@ejemplo.org (Francesco Latorrata)</author>
+            <author> a22lalafr@iesgrancapitan.org(Francesco Latorrata)</author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg" length="123" type="image/jpeg"/>
             <pubDate> Thu, 27 Dec 2023 19:27:06:00 </pubDate>
         </item>

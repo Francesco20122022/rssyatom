@@ -12,14 +12,14 @@
             <day>Saturday</day>
             <day>Sunday</day>
         </skipDays>
-        <skypHours>
+        <skipHours>
             <hour>0</hour>
             <hour>1</hour>
             <hour>2</hour>
             <hour>3</hour>
             <hour>4</hour>
             <hour>5</hour>
-        </skypHours>
+        </skipHours>
 
         <item>
             <title> Fotografía analógica </title>

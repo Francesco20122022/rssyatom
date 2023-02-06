@@ -56,7 +56,7 @@
             <description> Revelado de fotos en blanco y negro </description>
             <author> usuario4@ejemplo.org </author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg"
-                            lenght="123" type="audio/mpeg"/>
+                            length="123" type="audio/mpeg"/>
             <pubDate> Thu, 27 Dec 2023 19:27:06:00 </pubDate>
         </item>
 

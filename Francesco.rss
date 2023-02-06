@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <rss version="2.0">
+    <channel>
+        <language>es-es</language>
+        <title>Blog de fotografia</title>
+        <link> https://francesco20122022.github.io/prueba/ </link>
+        <description> Fotografía digital y analógica </description>
+        <author>usuario@ejemplo.org</author>
+        <category>News sobre fotografía</category>
+        <skypDays>
+            <day>saturday</day>
+            <day>sunday</day>
+        </skypDays>
+        <skypHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skypHours>
+
+        <item>
+            <title> Fotografía analógica </title>
+            <link> https://francesco20122022.github.io/prueba/ </link>
+            <description> Revelado de fotos en blanco y negro </description>
+            <author> usuario1@ejemplo.org </author>
+            <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg"
+                            lenght="123" type="imagen"/>
+            <pubDate> Thu, 27 Apr 2023 19:27:06 </pubDate>
+        </item>
+
+        <item>
+            <title> Fotografía en blanco y negro </title>
+            <link> htpp:// </link>
+            <description> Revelado de fotos en blanco y negro </description>
+            <author> usuario2@ejemplo.org </author>
+            <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg"
+                            lenght="123" type="audio/mpeg"/>
+            <pubDate> Thu, 3 Dec 2023 19:27:06:00 </pubDate>
+        </item>
+
+        <item>
+            <title> Fotografía en color </title>
+            <link> htpp:// </link>
+            <description> Revelado de fotos en blanco y negro </description>
+            <author> usuario3@ejemplo.org </author>
+            <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg"
+                            lenght="123" type="audio/mpeg"/>
+            <pubDate> Thu, 27 Dec 2023 19:27:06:00 </pubDate>
+        </item>
+
+        <item>
+            <title> Fotografía digital </title>
+            <link> htpp:// </link>
+            <description> Revelado de fotos en blanco y negro </description>
+            <author> usuario4@ejemplo.org </author>
+            <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg"
+                            lenght="123" type="audio/mpeg"/>
+            <pubDate> Thu, 27 Dec 2023 19:27:06:00 </pubDate>
+        </item>
+
+    </channel>
+    </rss>
+        

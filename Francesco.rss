@@ -8,10 +8,10 @@
         <description> Fotografía digital y analógica </description>
         <author>a22lalafr@iesgrancapitan.org (Francesco Latorrata)</author>
         <category>News sobre fotografía</category>
-        <skypDays>
+        <skipDays>
             <day>Saturday</day>
             <day>Sunday</day>
-        </skypDays>
+        </skipDays>
         <skypHours>
             <hour>0</hour>
             <hour>1</hour>

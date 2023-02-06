@@ -6,7 +6,7 @@
         <title>Blog de fotografia</title>
         <link> https://francesco20122022.github.io/prueba/ </link>
         <description> Fotografía digital y analógica </description>
-        <author>a22lalafr@iesgrancapitan.org (Francesco Latorrata)</author>
+        <author>a22lalafr@iesgrancapitan.org</author>
         <category>News sobre fotografía</category>
         <skipDays>
             <day>Saturday</day>
@@ -26,7 +26,7 @@
             <link> https://francesco20122022.github.io/prueba/ </link>
             <guid>https://francesco20122022.github.io/prueba//guid>
             <description> Revelado de fotos en blanco y negro </description>
-            <author> a22lalafr@iesgrancapitan.org (Francesco Latorrata) </author>
+            <author> a22lalafr@iesgrancapitan.org</author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg" length="123" type="image/jpeg"/>
             <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
         </item>
@@ -36,7 +36,7 @@
             <link> htpp:// </link>
             <guid>https://francesco20122022.github.io/prueba//guid>
             <description> Revelado de fotos en blanco y negro </description>
-            <author> a22lalafr@iesgrancapitan.org(Francesco Latorrata) </author>
+            <author> a22lalafr@iesgrancapitan.org</author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg" length="123" type="image/jpeg"/>
             <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
         </item>
@@ -46,7 +46,7 @@
             <link> htpp:// </link>
             <guid>https://francesco20122022.github.io/prueba//guid>
             <description> Revelado de fotos en blanco y negro </description>
-            <author> a22lalafr@iesgrancapitan.org (Francesco Latorrata)</author>
+            <author> a22lalafr@iesgrancapitan.org</author>
             <enclosure url="https://francesco20122022.github.io/prueba/imagen.jpg" length="123" type="image/jpeg"/>
             <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
         </item>

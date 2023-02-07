@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"
-    xml:base="https://francesco20122022.github.io/rssyatom/atom.xml">
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xml:lang="es"
+      xml:base="https://francesco20122022.github.io/rssyatom/atom.xml">
     <id>https://francesco20122022.github.io/prueba/</id>
     <title>Fotografía</title>
     <link rel="self" href="https://francesco20122022.github.io/prueba/"/>

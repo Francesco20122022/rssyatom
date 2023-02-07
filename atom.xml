@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"
     xml:base="https://laura-luque.github.io/ATOM-LLB.github.io/proyecto_LLB.xml">
-    <id>https://github.com/Francesco20122022/francesco.github.io</id>
+    <id>https://francesco20122022.github.io/prueba/</id>
     <title>Fotografía</title>
     <link rel="self" href="https://github.com/Francesco20122022/francesco.github.io"/>
     <update>2023-01-15T18:12:04Z</update>

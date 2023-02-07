@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"
-    xml:base="https://laura-luque.github.io/ATOM-LLB.github.io/proyecto_LLB.xml">
+    xml:base="https://francesco20122022.github.io/rssyatom/atom.xml">
     <id>https://francesco20122022.github.io/prueba/</id>
     <title>Fotografía</title>
-    <link rel="self" href="https://github.com/Francesco20122022/francesco.github.io"/>
+    <link rel="self" href="https://francesco20122022.github.io/prueba/"/>
     <update>2023-01-15T18:12:04Z</update>
     <author>
         <name>Francesco Latorrata</name>
@@ -18,7 +18,7 @@
         <title> Taller fotografía análogica </title>
         <update> 2023-01-15T18:12:04Z </update>
         <rights> blog@fotografo.com </rights>
-        <link href="https://www.blogdelfotografo.com/ejercicios-fotografia/"/>
+        <link href="https://francesco20122022.github.io/prueba/"/>
         <summary> Aprendemos a revelar fotografias analogicas</summary>
         <link rel="enclosure" type="image/jpg" title="camara de fotos" href=""/>
      </entry>
@@ -28,7 +28,7 @@
         <title> Taller fotografía digital </title>
         <update> 2023-01-15T18:12:04Z </update>
         <rights> blog@fotografo.com </rights>
-        <link href="https://www.blogdelfotografo.com/ejercicios-fotografia/"/>
+        <link href="https://francesco20122022.github.io/prueba/"/>
         <summary> Aprendemos a revelar fotografias digitales</summary>
         <link rel="enclosure" type="image/jpg" title="camara de fotos" href=""/>
      </entry>
